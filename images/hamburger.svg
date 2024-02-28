@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="23px" height="16px" viewBox="0 0 23 16" version="1.1">
+    <!-- Generator: Sketch 46 (44423) - http://www.bohemiancoding.com/sketch -->
+    <title>Group</title>
+    <desc>Created with Sketch.</desc>
+    <defs/>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="-optional-pricing_s7" transform="translate(-18.000000, -23.000000)" fill="#6F6F6F">
+            <g id="Top-Head" transform="translate(0.000000, -1.000000)">
+                <g id="Top-head" transform="translate(18.000000, 19.000000)">
+                    <g xmlns="http://www.w3.org/2000/svg" id="Group" transform="translate(0.000000, 5.625000)">
+                        <rect id="Rectangle-2" x="0" y="0" width="15" height="2.25"/>
+                        <rect id="Rectangle-2" x="0" y="6.1875" width="15" height="2.25"/>
+                        <rect id="Rectangle-2" x="0" y="12.375" width="15" height="2.25"/>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
